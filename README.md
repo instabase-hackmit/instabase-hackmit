@@ -46,6 +46,8 @@ For a full list of features and documentation, visit our [documentation site](ht
 
 
 
+[View the project here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/)
+
 ### Extract Information from Documents/Images
 
 ### Create a Document Classifier
@@ -54,6 +56,11 @@ For a full list of features and documentation, visit our [documentation site](ht
 
 ### Jupyter Notebooks
 
+Instabase provides hosted Jupyter Notebooks that have access to Instabase functionality. Creating a notebook is as easy as clicking "New" > "New Notebook". 
+
+[See an example notebook here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/jupyter-notebook/)
+
+*Note: Sometimes renaming a notebook will say that it failed - clicking rename again will fix that issue.*
 
 ## Common FAQ
 
