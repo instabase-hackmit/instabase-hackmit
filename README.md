@@ -44,7 +44,10 @@ For a full list of features and documentation, visit our [documentation site](ht
 
 ### Extract Text from Images (OCR)
 
+Instabase provides a process for extracting text from images, PDFs, scans, emails, and more, with a variety of document quality. The output can include character-level confidence and positional information as well. Instabase OCR can also
+handle document rotations.
 
+Example output for a receipt can be [found here](https://www.instabase.com/apps/ocr/review-doc/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/samples/out/s1_process_files/traderj_1.jpg.ibocr?i=0&ibflowresults=#) (click View Text), with many more [found here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/samples/out/s1_process_files/).
 
 [View the project here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/)
 
