@@ -114,6 +114,14 @@ Full documentation can be found [here](https://www.instabase.com/docs/content/ap
 
 Try it out by [running the project meta flow](https://www.instabase.com/docs/content/apps/flow/run-flow.html).
 
+### Natural Language Processing
+
+Instabase provides tools for doing natural language processing, such as sentiment analysis, entity tagging, and entity-action analysis/topic classification.
+
+Check out this [Jupyter Notebook](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/natural-language-processing/NLP%20API.ipynb) for an example, or checkout the [Adverse News app](https://www.instabase.com/apps/nlpsearch/realtime/vontell/hackmit).
+
+![An example extraction](images/adverse.png "Example Extraction")
+
 ### Jupyter Notebooks
 
 Instabase provides hosted Jupyter Notebooks that have access to Instabase functionality. Creating a notebook is as easy as clicking "New" > "New Notebook". 
