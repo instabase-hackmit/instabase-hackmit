@@ -32,6 +32,14 @@ A repository/workplace is a place to hold all of your code. Create one by clicki
 You can also share workspaces by clicking the IB icon and clicking the share icon next to the workspace name.
 
 
+### Quick terminology / explanation
+
+Instabase let's you automate data processing by creating **Flows**. A Flow is a series of steps, most typically OCR -> Extract Information. [Here](https://www.instabase.com/apps/flow/edit/vontell/hackmit/fs/Instabase%20Drive/information-extraction/InformationExtractionFlow.ibflow) is an example of an end-to-end solution.
+
+To run a Flow, simply click Tools -> Run, and select an input folder with your documents.
+
+[This page](https://www.instabase.com/docs/content/university/03_your_first_flow/index.html) has more information on a typical project setup.
+
 ### Need Help?
 
 We will be here all weekend to help with your projects! Come by our booth in the area, or contact our mentor at aaron@instabase.com
