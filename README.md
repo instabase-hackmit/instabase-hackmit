@@ -85,6 +85,17 @@ A list of all functions available are found [here](https://www.instabase.com/doc
 
 [View the project here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/information-extraction/)
 
+
+### Classifying Text-based Documents
+
+An automated process for classifying and extracting information from document is available on Instabase. We provide a few different classification techniques to get you started that work great on most documents, and allow you to create your own classifiers.
+
+![An example classification](images/classifier.png "Example Classification")
+
+Full documentation can be found [here](https://www.instabase.com/docs/content/apps/classifier/index.html), while an example project to get you started can be found [here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/document-classifier/).
+
+![An example classification](images/classifier_screen.png "Example Classification")
+
 ### Jupyter Notebooks
 
 Instabase provides hosted Jupyter Notebooks that have access to Instabase functionality. Creating a notebook is as easy as clicking "New" > "New Notebook". 
