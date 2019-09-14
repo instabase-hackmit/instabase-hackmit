@@ -50,9 +50,7 @@ handle document rotations.
 
 Example output for a receipt can be [found here](https://www.instabase.com/apps/ocr/review-doc/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/samples/out/s1_process_files/traderj_1.jpg.ibocr?i=0&ibflowresults=#) (click View Text), with many more [found here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/samples/out/s1_process_files/).
 
-<div style="text-align:center">
-  <img src="images/receipt.jpeg" width=300>
-</div>
+![An example receipt](images/receipt.jpeg "Example receipt")
 
 ```
             LUKES
@@ -81,17 +79,11 @@ Paid  With:  VISA                       XXXX2278
 
 Instabase provides tools and techniques for extracting information from documents. For instance, given the OCR and scan of the receipt example above, we can easily extract items such as name, total amount, subtotal, and more. Using an app called Refiner, we provide over 50 various functions for extracting information.
 
-<div style="text-align:center">
-  <img src="images/review.png" width=600>
-</div>
+![An example extraction](images/review.png "Example Extraction")
 
 A list of all functions available are found [here](https://www.instabase.com/docs/content/functions/index.html), including everything from regex-based extraction to advanced NLP techniques.
 
 [View the project here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/information-extraction/)
-
-### Create a Document Classifier
-
-### Automate with Custom Scripting
 
 ### Jupyter Notebooks
 
@@ -127,3 +119,10 @@ headers = {
 }
 resp = requests.post(url, headers=headers).json()
 ```
+
+## Join Instabase!
+
+Looking for an internship or full time opportunity? Check out our [career page](https://www.instabase.com/about/careers/).
+
+
+[![Instabase Video](http://img.youtube.com/vi/9M4zqGCE2kk/0.jpg)](http://www.youtube.com/watch?v=9M4zqGCE2kk)
