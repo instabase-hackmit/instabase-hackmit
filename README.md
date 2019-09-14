@@ -29,6 +29,8 @@ A repository/workplace is a place to hold all of your code. Create one by clicki
 
 ![An image showing the New Workspace button in the top right of the screen](images/new_workspace.png "New Workspace")
 
+You can also share workspaces by clicking the IB icon and clicking the share icon next to the workspace name.
+
 
 ### Need Help?
 
