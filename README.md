@@ -126,3 +126,5 @@ Looking for an internship or full time opportunity? Check out our [career page](
 
 
 [![Instabase Video](http://img.youtube.com/vi/9M4zqGCE2kk/0.jpg)](http://www.youtube.com/watch?v=9M4zqGCE2kk)
+
+Curious about what our internships are like? Check out [this blog post](https://blogs.instabase.com/interning-at-instabase-the-10-million-dollar-ideas-b8cbb1168ed3) from one of our recent interns!
