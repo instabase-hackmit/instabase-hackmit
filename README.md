@@ -27,7 +27,8 @@ hack-mit-2019
 
 A repository/workplace is a place to hold all of your code. Create one by clicking "New Workspace" in the Workspaces menu.
 
-[INSERT IMAGE HERE]
+![An image showing the New Workspace button in the top right of the screen](images/new_workspace.png "New Workspace")
+
 
 ### Need Help?
 
@@ -49,9 +50,44 @@ handle document rotations.
 
 Example output for a receipt can be [found here](https://www.instabase.com/apps/ocr/review-doc/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/samples/out/s1_process_files/traderj_1.jpg.ibocr?i=0&ibflowresults=#) (click View Text), with many more [found here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/samples/out/s1_process_files/).
 
+<div style="text-align:center">
+  <img src="images/receipt.jpeg" width=300>
+</div>
+
+```
+            LUKES
+                    LOCAL
+                  Luke's  Local
+                 960 Cole  Street
+                San Francisco,  CA
+                                  Order# 275838
+                                  Station# POS2
+                                 Server: Rafael
+                        Date:  11/7/17, 8:27  PM
+ Transaction:                          10275838
+ Luke's  Potato  Salad  - 8oz              $2.99
+ Luke's  Smoked  Trout  Salad             $12.99
+ Subtotal:                                $15.98
+ Total  Tax:                               $0.00
+ Total:                                    $15.98
+Paid  With:  VISA                       XXXX2278
+ Bill:                               JESSICA  LIN
+ Total:                                    $15.98
+ ```
+
 [View the project here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/)
 
 ### Extract Information from Documents/Images
+
+Instabase provides tools and techniques for extracting information from documents. For instance, given the OCR and scan of the receipt example above, we can easily extract items such as name, total amount, subtotal, and more. Using an app called Refiner, we provide over 50 various functions for extracting information.
+
+<div style="text-align:center">
+  <img src="images/review.png" width=600>
+</div>
+
+A list of all functions available are found [here](https://www.instabase.com/docs/content/functions/index.html), including everything from regex-based extraction to advanced NLP techniques.
+
+[View the project here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/information-extraction/)
 
 ### Create a Document Classifier
 
