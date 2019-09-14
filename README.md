@@ -43,10 +43,14 @@ Below is a list of just a few of the capabilities of Instabase. Follow the link 
 
 For a full list of features and documentation, visit our [documentation site](https://www.instabase.com/docs/index.html).
 
+**To start using these projects, right click the folder and click "copy" to copy the code into your own workspace.**
+
 ### Extract Text from Images (OCR)
 
 Instabase provides a process for extracting text from images, PDFs, scans, emails, and more, with a variety of document quality. The output can include character-level confidence and positional information as well. Instabase OCR can also
 handle document rotations.
+
+Try it out by [running the project flow](https://www.instabase.com/docs/content/apps/flow/run-flow.html).
 
 Example output for a receipt can be [found here](https://www.instabase.com/apps/ocr/review-doc/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/samples/out/s1_process_files/traderj_1.jpg.ibocr?i=0&ibflowresults=#) (click View Text), with many more [found here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/ocr-text-extraction/samples/out/s1_process_files/).
 
@@ -85,6 +89,8 @@ A list of all functions available are found [here](https://www.instabase.com/doc
 
 [View the project here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/information-extraction/)
 
+Try it out by [running the project flow](https://www.instabase.com/docs/content/apps/flow/run-flow.html).
+
 
 ### Classifying Text-based Documents
 
@@ -95,6 +101,8 @@ An automated process for classifying and extracting information from document is
 Full documentation can be found [here](https://www.instabase.com/docs/content/apps/classifier/index.html), while an example project to get you started can be found [here](https://www.instabase.com/vontell/hackmit/fs/Instabase%20Drive/document-classifier/).
 
 ![An example classification](images/classifier_screen.png "Example Classification")
+
+Try it out by [running the project meta flow](https://www.instabase.com/docs/content/apps/flow/run-flow.html).
 
 ### Jupyter Notebooks
 
